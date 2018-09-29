@@ -9,16 +9,20 @@
 ================================================================*/
 #include <stdio.h>
 
+#define LOWER 0
+#define UPPER 300
+#define STEP 20
+#define FLOAT float celsius
+
 int main() {
 
-    float celsius;
-    int lower, upper, step;
-
+    //float celsius;
+    FLOAT;
     char title_left[] = "celsius", title_right[] = "fahr";
 
     printf("%3s\t%6s\n", title_left, title_right);
 
-    for (celsius = 300; celsius >= 0; celsius -= 20)
+    for (celsius = UPPER; celsius >= LOWER; celsius -= STEP)
         printf("%3.0f\t%6.1f\n", celsius, celsius * 9.0 / 5.0 + 32);
 
     return 0;

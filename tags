@@ -1,0 +1,283 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLCONFS	conio-for-linux/nbproject/Makefile-impl.mk	/^ALLCONFS=Debug Release $/;"	m	language:Make
+AS	conio-for-linux/nbproject/Makefile-Debug.mk	/^AS=as$/;"	m	language:Make
+AS	conio-for-linux/nbproject/Makefile-Release.mk	/^AS=as$/;"	m	language:Make
+ASFLAGS	conio-for-linux/nbproject/Makefile-Debug.mk	/^ASFLAGS=$/;"	m	language:Make
+ASFLAGS	conio-for-linux/nbproject/Makefile-Release.mk	/^ASFLAGS=$/;"	m	language:Make
+BLACK	conio-for-linux/conio.h	13;"	d	language:C++
+BLACK	conio/conio.h	13;"	d	language:C++
+BLUE	conio-for-linux/conio.h	10;"	d	language:C++
+BLUE	conio/conio.h	10;"	d	language:C++
+BUILD_SUBPROJECTS	conio-for-linux/nbproject/Makefile-impl.mk	/^BUILD_SUBPROJECTS=${BUILD_SUBPROJECTS_${SUBPROJECTS}}$/;"	m	language:Make
+BUILD_SUBPROJECTS_	conio-for-linux/nbproject/Makefile-impl.mk	/^BUILD_SUBPROJECTS_=.build-subprojects$/;"	m	language:Make
+BUILD_SUBPROJECTS_NO	conio-for-linux/nbproject/Makefile-impl.mk	/^BUILD_SUBPROJECTS_NO=$/;"	m	language:Make
+CC	conio-for-linux/nbproject/Makefile-Debug.mk	/^CC=gcc$/;"	m	language:Make
+CC	conio-for-linux/nbproject/Makefile-Release.mk	/^CC=gcc$/;"	m	language:Make
+CCADMIN	conio-for-linux/Makefile	/^CCADMIN=CCadmin$/;"	m	language:Make
+CCADMIN	conio-for-linux/nbproject/Makefile-Debug.mk	/^CCADMIN=CCadmin$/;"	m	language:Make
+CCADMIN	conio-for-linux/nbproject/Makefile-Release.mk	/^CCADMIN=CCadmin$/;"	m	language:Make
+CCC	conio-for-linux/nbproject/Makefile-Debug.mk	/^CCC=g++$/;"	m	language:Make
+CCC	conio-for-linux/nbproject/Makefile-Release.mk	/^CCC=g++$/;"	m	language:Make
+CCFLAGS	conio-for-linux/nbproject/Makefile-Debug.mk	/^CCFLAGS=$/;"	m	language:Make
+CCFLAGS	conio-for-linux/nbproject/Makefile-Release.mk	/^CCFLAGS=$/;"	m	language:Make
+CFLAGS	conio-for-linux/nbproject/Makefile-Debug.mk	/^CFLAGS=$/;"	m	language:Make
+CFLAGS	conio-for-linux/nbproject/Makefile-Release.mk	/^CFLAGS=$/;"	m	language:Make
+CLEAN_SUBPROJECTS	conio-for-linux/nbproject/Makefile-impl.mk	/^CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}$/;"	m	language:Make
+CLEAN_SUBPROJECTS_	conio-for-linux/nbproject/Makefile-impl.mk	/^CLEAN_SUBPROJECTS_=.clean-subprojects$/;"	m	language:Make
+CLEAN_SUBPROJECTS_NO	conio-for-linux/nbproject/Makefile-impl.mk	/^CLEAN_SUBPROJECTS_NO=$/;"	m	language:Make
+CND_ARTIFACT_DIR_Debug	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_DIR_Debug=dist\/Debug\/GNU-Linux-x86$/;"	m	language:Make
+CND_ARTIFACT_DIR_Release	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_DIR_Release=dist\/Release\/GNU-Linux-x86$/;"	m	language:Make
+CND_ARTIFACT_NAME_Debug	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_NAME_Debug=libconio.a$/;"	m	language:Make
+CND_ARTIFACT_NAME_Release	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_NAME_Release=libconio.so$/;"	m	language:Make
+CND_ARTIFACT_PATH_Debug	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_PATH_Debug=dist\/Debug\/GNU-Linux-x86\/libconio.a$/;"	m	language:Make
+CND_ARTIFACT_PATH_Release	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_PATH_Release=dist\/Release\/GNU-Linux-x86\/libconio.so$/;"	m	language:Make
+CND_BASEDIR	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_BASEDIR=`pwd`$/;"	m	language:Make
+CND_BUILDDIR	conio-for-linux/nbproject/Makefile-Debug.mk	/^CND_BUILDDIR=build$/;"	m	language:Make
+CND_BUILDDIR	conio-for-linux/nbproject/Makefile-Release.mk	/^CND_BUILDDIR=build$/;"	m	language:Make
+CND_BUILDDIR	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_BUILDDIR=build$/;"	m	language:Make
+CND_CONF	conio-for-linux/nbproject/Makefile-Debug.mk	/^CND_CONF=Debug$/;"	m	language:Make
+CND_CONF	conio-for-linux/nbproject/Makefile-Release.mk	/^CND_CONF=Release$/;"	m	language:Make
+CND_DISTDIR	conio-for-linux/nbproject/Makefile-Debug.mk	/^CND_DISTDIR=dist$/;"	m	language:Make
+CND_DISTDIR	conio-for-linux/nbproject/Makefile-Release.mk	/^CND_DISTDIR=dist$/;"	m	language:Make
+CND_DISTDIR	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_DISTDIR=dist$/;"	m	language:Make
+CND_DLIB_EXT	conio-for-linux/nbproject/Makefile-Debug.mk	/^CND_DLIB_EXT=so$/;"	m	language:Make
+CND_DLIB_EXT	conio-for-linux/nbproject/Makefile-Release.mk	/^CND_DLIB_EXT=so$/;"	m	language:Make
+CND_PACKAGE_DIR_Debug	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_PACKAGE_DIR_Debug=dist\/Debug\/GNU-Linux-x86\/package$/;"	m	language:Make
+CND_PACKAGE_DIR_Release	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_PACKAGE_DIR_Release=dist\/Release\/GNU-Linux-x86\/package$/;"	m	language:Make
+CND_PACKAGE_NAME_Debug	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_PACKAGE_NAME_Debug=libconio.deb$/;"	m	language:Make
+CND_PACKAGE_NAME_Release	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_PACKAGE_NAME_Release=libconio.deb$/;"	m	language:Make
+CND_PACKAGE_PATH_Debug	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_PACKAGE_PATH_Debug=dist\/Debug\/GNU-Linux-x86\/package\/libconio.deb$/;"	m	language:Make
+CND_PACKAGE_PATH_Release	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_PACKAGE_PATH_Release=dist\/Release\/GNU-Linux-x86\/package\/libconio.deb$/;"	m	language:Make
+CND_PLATFORM	conio-for-linux/nbproject/Makefile-Debug.mk	/^CND_PLATFORM=GNU-Linux-x86$/;"	m	language:Make
+CND_PLATFORM	conio-for-linux/nbproject/Makefile-Release.mk	/^CND_PLATFORM=GNU-Linux-x86$/;"	m	language:Make
+CND_PLATFORM_Debug	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_PLATFORM_Debug=GNU-Linux-x86$/;"	m	language:Make
+CND_PLATFORM_Release	conio-for-linux/nbproject/Makefile-variables.mk	/^CND_PLATFORM_Release=GNU-Linux-x86$/;"	m	language:Make
+COLOR_PAIR	conio-for-linux/conio.c	/^            attron(COLOR_PAIR(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color)));$/;"	p	language:C	file:	signature:(_cu_get_color_pair(
+COLOR_PAIR	conio-for-linux/conio.c	/^    attron(COLOR_PAIR(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color)));$/;"	p	language:C	file:	signature:(_cu_get_color_pair(
+COLOR_PAIR	conio/conio.c	/^            attron(COLOR_PAIR(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color)));$/;"	p	language:C	file:	signature:(_cu_get_color_pair(
+COLOR_PAIR	conio/conio.c	/^    attron(COLOR_PAIR(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color)));$/;"	p	language:C	file:	signature:(_cu_get_color_pair(
+CONF	conio-for-linux/nbproject/Makefile-impl.mk	/^CONF=${DEFAULTCONF}$/;"	m	language:Make
+CONIO_H	conio-for-linux/conio.h	2;"	d	language:C++
+CONIO_H	conio/conio.h	2;"	d	language:C++
+CP	conio-for-linux/Makefile	/^CP=cp$/;"	m	language:Make
+CP	conio-for-linux/nbproject/Makefile-Debug.mk	/^CP=cp$/;"	m	language:Make
+CP	conio-for-linux/nbproject/Makefile-Release.mk	/^CP=cp$/;"	m	language:Make
+CXX	conio-for-linux/nbproject/Makefile-Debug.mk	/^CXX=g++$/;"	m	language:Make
+CXX	conio-for-linux/nbproject/Makefile-Release.mk	/^CXX=g++$/;"	m	language:Make
+CXXFLAGS	conio-for-linux/nbproject/Makefile-Debug.mk	/^CXXFLAGS=$/;"	m	language:Make
+CXXFLAGS	conio-for-linux/nbproject/Makefile-Release.mk	/^CXXFLAGS=$/;"	m	language:Make
+CYAN	conio-for-linux/conio.h	15;"	d	language:C++
+CYAN	conio/conio.h	15;"	d	language:C++
+DEFAULTCONF	conio-for-linux/nbproject/Makefile-impl.mk	/^DEFAULTCONF=Debug$/;"	m	language:Make
+FC	conio-for-linux/nbproject/Makefile-Debug.mk	/^FC=gfortran$/;"	m	language:Make
+FC	conio-for-linux/nbproject/Makefile-Release.mk	/^FC=gfortran$/;"	m	language:Make
+FFLAGS	conio-for-linux/nbproject/Makefile-Debug.mk	/^FFLAGS=$/;"	m	language:Make
+FFLAGS	conio-for-linux/nbproject/Makefile-Release.mk	/^FFLAGS=$/;"	m	language:Make
+FLOAT	Chapter01/p009-03.c	15;"	d	language:C	file:
+GREEN	conio-for-linux/conio.h	16;"	d	language:C++
+GREEN	conio/conio.h	16;"	d	language:C++
+GREP	conio-for-linux/nbproject/Makefile-Debug.mk	/^GREP=grep$/;"	m	language:Make
+GREP	conio-for-linux/nbproject/Makefile-Release.mk	/^GREP=grep$/;"	m	language:Make
+LDLIBSOPTIONS	conio-for-linux/nbproject/Makefile-Debug.mk	/^LDLIBSOPTIONS=$/;"	m	language:Make
+LDLIBSOPTIONS	conio-for-linux/nbproject/Makefile-Release.mk	/^LDLIBSOPTIONS=$/;"	m	language:Make
+LIGHTBLUE	conio-for-linux/conio.h	18;"	d	language:C++
+LIGHTBLUE	conio/conio.h	18;"	d	language:C++
+LIGHTGREEN	conio-for-linux/conio.h	20;"	d	language:C++
+LIGHTGREEN	conio/conio.h	20;"	d	language:C++
+LIGHTRED	conio-for-linux/conio.h	19;"	d	language:C++
+LIGHTRED	conio/conio.h	19;"	d	language:C++
+LOWER	Chapter01/p009-02.c	12;"	d	language:C	file:
+LOWER	Chapter01/p009-03.c	12;"	d	language:C	file:
+MAGENTA	conio-for-linux/conio.h	14;"	d	language:C++
+MAGENTA	conio/conio.h	14;"	d	language:C++
+MKDIR	conio-for-linux/Makefile	/^MKDIR=mkdir$/;"	m	language:Make
+MKDIR	conio-for-linux/nbproject/Makefile-Debug.mk	/^MKDIR=mkdir$/;"	m	language:Make
+MKDIR	conio-for-linux/nbproject/Makefile-Release.mk	/^MKDIR=mkdir$/;"	m	language:Make
+NM	conio-for-linux/nbproject/Makefile-Debug.mk	/^NM=nm$/;"	m	language:Make
+NM	conio-for-linux/nbproject/Makefile-Release.mk	/^NM=nm$/;"	m	language:Make
+OBJECTDIR	conio-for-linux/nbproject/Makefile-Debug.mk	/^OBJECTDIR=${CND_BUILDDIR}\/${CND_CONF}\/${CND_PLATFORM}$/;"	m	language:Make
+OBJECTDIR	conio-for-linux/nbproject/Makefile-Release.mk	/^OBJECTDIR=${CND_BUILDDIR}\/${CND_CONF}\/${CND_PLATFORM}$/;"	m	language:Make
+OBJECTFILES	conio-for-linux/nbproject/Makefile-Debug.mk	/^OBJECTFILES= \\$/;"	m	language:Make
+OBJECTFILES	conio-for-linux/nbproject/Makefile-Release.mk	/^OBJECTFILES= \\$/;"	m	language:Make
+PROJECTNAME	conio-for-linux/nbproject/Makefile-impl.mk	/^PROJECTNAME=conio$/;"	m	language:Make
+RANLIB	conio-for-linux/nbproject/Makefile-Debug.mk	/^RANLIB=ranlib$/;"	m	language:Make
+RANLIB	conio-for-linux/nbproject/Makefile-Release.mk	/^RANLIB=ranlib$/;"	m	language:Make
+RED	conio-for-linux/conio.h	11;"	d	language:C++
+RED	conio/conio.h	11;"	d	language:C++
+STEP	Chapter01/p009-02.c	14;"	d	language:C	file:
+STEP	Chapter01/p009-03.c	14;"	d	language:C	file:
+SUBPROJECTS	conio-for-linux/nbproject/Makefile-impl.mk	/^SUBPROJECTS=${SUB_${SUB}}$/;"	m	language:Make
+SUB_no	conio-for-linux/nbproject/Makefile-impl.mk	/^SUB_no=NO$/;"	m	language:Make
+UPPER	Chapter01/p009-02.c	13;"	d	language:C	file:
+UPPER	Chapter01/p009-03.c	13;"	d	language:C	file:
+WHITE	conio-for-linux/conio.h	12;"	d	language:C++
+WHITE	conio/conio.h	12;"	d	language:C++
+YELLOW	conio-for-linux/conio.h	17;"	d	language:C++
+YELLOW	conio/conio.h	17;"	d	language:C++
+_cu_bkgnd_color	conio-for-linux/conio.c	/^            init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	l	language:C
+_cu_bkgnd_color	conio-for-linux/conio.c	/^    init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	l	language:C
+_cu_bkgnd_color	conio-for-linux/conio.c	/^int _cu_bkgnd_color;$/;"	v	language:C
+_cu_bkgnd_color	conio/conio.c	/^            init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	l	language:C
+_cu_bkgnd_color	conio/conio.c	/^    init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	l	language:C
+_cu_bkgnd_color	conio/conio.c	/^int _cu_bkgnd_color;$/;"	v	language:C
+_cu_fore_color	conio-for-linux/conio.c	/^            init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	l	language:C
+_cu_fore_color	conio-for-linux/conio.c	/^    init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	l	language:C
+_cu_fore_color	conio-for-linux/conio.c	/^int _cu_fore_color;$/;"	v	language:C
+_cu_fore_color	conio/conio.c	/^            init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	l	language:C
+_cu_fore_color	conio/conio.c	/^    init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	l	language:C
+_cu_fore_color	conio/conio.c	/^int _cu_fore_color;$/;"	v	language:C
+_cu_get_color_pair	conio-for-linux/conio.c	/^            init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	p	language:C	file:
+_cu_get_color_pair	conio-for-linux/conio.c	/^    init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	p	language:C	file:
+_cu_get_color_pair	conio-for-linux/conio.c	15;"	d	language:C	file:
+_cu_get_color_pair	conio/conio.c	/^            init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	p	language:C	file:
+_cu_get_color_pair	conio/conio.c	/^    init_pair(_cu_get_color_pair(_cu_fore_color, _cu_bkgnd_color), _cu_fore_color, _cu_bkgnd_color);$/;"	p	language:C	file:
+_cu_get_color_pair	conio/conio.c	15;"	d	language:C	file:
+_working_window	conio-for-linux/conio.c	/^WINDOW *_working_window;$/;"	v	language:C
+_working_window	conio/conio.c	/^WINDOW *_working_window;$/;"	v	language:C
+celsius	Chapter01/p004-01.c	/^    int fahr, celsius;$/;"	l	language:C
+celsius	Chapter01/p006-01.c	/^    float fahr, celsius;$/;"	l	language:C
+celsius	Chapter01/p008-01.c	/^    float fahr, celsius;$/;"	l	language:C
+celsius	Chapter01/p008-02.c	/^    float fahr, celsius;$/;"	l	language:C
+celsius	Chapter01/p009-01.c	/^    float celsius;$/;"	l	language:C
+celsius	Chapter01/p009-02.c	/^    float celsius;$/;"	l	language:C
+cgets	conio-for-linux/conio.c	/^char* cgets(char* buf) {$/;"	f	language:C	signature:(char* buf)
+cgets	conio-for-linux/conio.h	/^char* cgets(char*);$/;"	p	language:C++	signature:(char*)
+cgets	conio/conio.c	/^char* cgets(char* buf) {$/;"	f	language:C	signature:(char* buf)
+cgets	conio/conio.h	/^char* cgets(char*);$/;"	p	language:C++	signature:(char*)
+checkReturnCode	conio-for-linux/nbproject/Package-Debug.bash	/^function checkReturnCode$/;"	f	language:Sh
+checkReturnCode	conio-for-linux/nbproject/Package-Release.bash	/^function checkReturnCode$/;"	f	language:Sh
+clreol	conio-for-linux/conio.c	/^void clreol(void) {$/;"	f	language:C	signature:(void)
+clreol	conio-for-linux/conio.h	/^void clreol(void);$/;"	p	language:C++	signature:(void)
+clreol	conio/conio.c	/^void clreol(void) {$/;"	f	language:C	signature:(void)
+clreol	conio/conio.h	/^void clreol(void);$/;"	p	language:C++	signature:(void)
+clrscr	conio-for-linux/conio.c	/^void clrscr(void) {$/;"	f	language:C	signature:(void)
+clrscr	conio-for-linux/conio.h	/^void clrscr(void);$/;"	p	language:C++	signature:(void)
+clrscr	conio/conio.c	/^void clrscr(void) {$/;"	f	language:C	signature:(void)
+clrscr	conio/conio.h	/^void clrscr(void);$/;"	p	language:C++	signature:(void)
+copyFileToTmpDir	conio-for-linux/nbproject/Package-Debug.bash	/^function copyFileToTmpDir$/;"	f	language:Sh
+copyFileToTmpDir	conio-for-linux/nbproject/Package-Release.bash	/^function copyFileToTmpDir$/;"	f	language:Sh
+cprintf	conio-for-linux/conio.c	/^int cprintf(const char* fmt, ...) {$/;"	f	language:C	signature:(const char* fmt, ...)
+cprintf	conio-for-linux/conio.h	/^int cprintf(const char*, ...);$/;"	p	language:C++	signature:(const char*, ...)
+cprintf	conio/conio.c	/^int cprintf(const char* fmt, ...) {$/;"	f	language:C	signature:(const char* fmt, ...)
+cprintf	conio/conio.h	/^int cprintf(const char*, ...);$/;"	p	language:C++	signature:(const char*, ...)
+cputs	conio-for-linux/conio.c	/^int cputs(char* buf) {$/;"	f	language:C	signature:(char* buf)
+cputs	conio-for-linux/conio.h	/^int cputs(char*);$/;"	p	language:C++	signature:(char*)
+cputs	conio/conio.c	/^int cputs(char* buf) {$/;"	f	language:C	signature:(char* buf)
+cputs	conio/conio.h	/^int cputs(char*);$/;"	p	language:C++	signature:(char*)
+cscanf	conio-for-linux/conio.c	/^int cscanf(const char* fmt, ...) {$/;"	f	language:C	signature:(const char* fmt, ...)
+cscanf	conio-for-linux/conio.h	/^int cscanf(const char*, ...);$/;"	p	language:C++	signature:(const char*, ...)
+cscanf	conio/conio.c	/^int cscanf(const char* fmt, ...) {$/;"	f	language:C	signature:(const char* fmt, ...)
+cscanf	conio/conio.h	/^int cscanf(const char*, ...);$/;"	p	language:C++	signature:(const char*, ...)
+delline	conio-for-linux/conio.c	/^void delline(void) {$/;"	f	language:C	signature:(void)
+delline	conio-for-linux/conio.h	/^void delline(void);$/;"	p	language:C++	signature:(void)
+delline	conio/conio.c	/^void delline(void) {$/;"	f	language:C	signature:(void)
+delline	conio/conio.h	/^void delline(void);$/;"	p	language:C++	signature:(void)
+fahr	Chapter01/p004-01.c	/^    int fahr, celsius;$/;"	l	language:C
+fahr	Chapter01/p006-01.c	/^    float fahr, celsius;$/;"	l	language:C
+fahr	Chapter01/p008-01.c	/^    float fahr, celsius;$/;"	l	language:C
+fahr	Chapter01/p008-02.c	/^    float fahr, celsius;$/;"	l	language:C
+getch	conio-for-linux/conio.c	/^int getch(void) {$/;"	f	language:C	signature:(void)
+getch	conio-for-linux/conio.h	/^int getch(void);$/;"	p	language:C++	signature:(void)
+getch	conio-for-linux/conio.h	22;"	d	language:C++
+getch	conio/conio.c	/^int getch(void) {$/;"	f	language:C	signature:(void)
+getch	conio/conio.h	/^int getch(void);$/;"	p	language:C++	signature:(void)
+getch	conio/conio.h	22;"	d	language:C++
+getche	conio-for-linux/conio.c	/^int getche(void) {$/;"	f	language:C	signature:(void)
+getche	conio-for-linux/conio.h	/^int getche(void);$/;"	p	language:C++	signature:(void)
+getche	conio/conio.c	/^int getche(void) {$/;"	f	language:C	signature:(void)
+getche	conio/conio.h	/^int getche(void);$/;"	p	language:C++	signature:(void)
+gotoxy	conio-for-linux/conio.c	/^void gotoxy(int x, int y) {$/;"	f	language:C	signature:(int x, int y)
+gotoxy	conio-for-linux/conio.h	/^void gotoxy(int x,int y);$/;"	p	language:C++	signature:(int x,int y)
+gotoxy	conio/conio.c	/^void gotoxy(int x, int y) {$/;"	f	language:C	signature:(int x, int y)
+gotoxy	conio/conio.h	/^void gotoxy(int x,int y);$/;"	p	language:C++	signature:(int x,int y)
+height	conio-for-linux/conio.c	/^    int height, width;$/;"	l	language:C
+height	conio/conio.c	/^    int height, width;$/;"	l	language:C
+init_screen	conio-for-linux/conio.c	/^void init_screen(void) {$/;"	f	language:C	signature:(void)
+init_screen	conio-for-linux/conio.h	/^void init_screen(void);$/;"	p	language:C++	signature:(void)
+init_screen	conio/conio.c	/^void init_screen(void) {$/;"	f	language:C	signature:(void)
+init_screen	conio/conio.h	/^void init_screen(void);$/;"	p	language:C++	signature:(void)
+kbhit	conio-for-linux/conio.c	/^int kbhit(void) {$/;"	f	language:C	signature:(void)
+kbhit	conio-for-linux/conio.h	/^int kbhit(void);$/;"	p	language:C++	signature:(void)
+kbhit	conio/conio.c	/^int kbhit(void) {$/;"	f	language:C	signature:(void)
+kbhit	conio/conio.h	/^int kbhit(void);$/;"	p	language:C++	signature:(void)
+lower	Chapter01/p004-01.c	/^    int lower, upper, step;$/;"	l	language:C
+lower	Chapter01/p006-01.c	/^    int lower, upper, step;$/;"	l	language:C
+lower	Chapter01/p008-01.c	/^    int lower, upper, step;$/;"	l	language:C
+lower	Chapter01/p008-02.c	/^    int lower, upper, step;$/;"	l	language:C
+lower	Chapter01/p009-01.c	/^    int lower, upper, step;$/;"	l	language:C
+main	Chapter01/p004-01.c	/^int main() {$/;"	f	language:C
+main	Chapter01/p006-01.c	/^int main() {$/;"	f	language:C
+main	Chapter01/p008-01.c	/^int main() {$/;"	f	language:C
+main	Chapter01/p008-02.c	/^int main() {$/;"	f	language:C
+main	Chapter01/p009-01.c	/^int main() {$/;"	f	language:C
+main	Chapter01/p009-02.c	/^int main() {$/;"	f	language:C
+main	Chapter01/p009-03.c	/^int main() {$/;"	f	language:C
+main	Chapter01/p011-01.c	/^int main() {$/;"	f	language:C
+main	Chapter01/p011-02.c	/^int main() {$/;"	f	language:C
+main	Chapter01/test.c	/^int main() {$/;"	f	language:C
+makeDirectory	conio-for-linux/nbproject/Package-Debug.bash	/^function makeDirectory$/;"	f	language:Sh
+makeDirectory	conio-for-linux/nbproject/Package-Release.bash	/^function makeDirectory$/;"	f	language:Sh
+max	conio-for-linux/conio.c	12;"	d	language:C	file:
+max	conio/conio.c	12;"	d	language:C	file:
+min	conio-for-linux/conio.c	13;"	d	language:C	file:
+min	conio/conio.c	13;"	d	language:C	file:
+refresh_screen	conio-for-linux/conio.c	/^void refresh_screen(void) {$/;"	f	language:C	signature:(void)
+refresh_screen	conio/conio.c	/^void refresh_screen(void) {$/;"	f	language:C	signature:(void)
+ret	conio-for-linux/conio.c	/^    int ret;$/;"	l	language:C
+ret	conio/conio.c	/^    int ret;$/;"	l	language:C
+screen_initialized	conio-for-linux/conio.c	/^int screen_initialized;$/;"	v	language:C
+screen_initialized	conio/conio.c	/^int screen_initialized;$/;"	v	language:C
+sh	conio-for-linux/nbproject/Makefile-variables.mk	/^ROOT:sh = test -f nbproject\/private\/Makefile-variables.mk || \\$/;"	m	language:Make
+step	Chapter01/p004-01.c	/^    int lower, upper, step;$/;"	l	language:C
+step	Chapter01/p006-01.c	/^    int lower, upper, step;$/;"	l	language:C
+step	Chapter01/p008-01.c	/^    int lower, upper, step;$/;"	l	language:C
+step	Chapter01/p008-02.c	/^    int lower, upper, step;$/;"	l	language:C
+step	Chapter01/p009-01.c	/^    int lower, upper, step;$/;"	l	language:C
+temp	conio-for-linux/conio.c	/^    int temp;$/;"	l	language:C
+temp	conio/conio.c	/^    int temp;$/;"	l	language:C
+textbackground	conio-for-linux/conio.c	/^void textbackground(int color) {$/;"	f	language:C	signature:(int color)
+textbackground	conio-for-linux/conio.h	/^void textbackground(int color);$/;"	p	language:C++	signature:(int color)
+textbackground	conio/conio.c	/^void textbackground(int color) {$/;"	f	language:C	signature:(int color)
+textbackground	conio/conio.h	/^void textbackground(int color);$/;"	p	language:C++	signature:(int color)
+textcolor	conio-for-linux/conio.c	/^void textcolor(int color) {$/;"	f	language:C	signature:(int color)
+textcolor	conio-for-linux/conio.h	/^void textcolor(int color);$/;"	p	language:C++	signature:(int color)
+textcolor	conio/conio.c	/^void textcolor(int color) {$/;"	f	language:C	signature:(int color)
+textcolor	conio/conio.h	/^void textcolor(int color);$/;"	p	language:C++	signature:(int color)
+title_left	Chapter01/p006-01.c	/^    char title_left[] = "fahr", title_right[] = "celsius";$/;"	l	language:C
+title_left	Chapter01/p008-01.c	/^    char title_left[] = "fahr", title_right[] = "celsius";$/;"	l	language:C
+title_left	Chapter01/p008-02.c	/^    char title_left[] = "celsius", title_right[] = "fahr";$/;"	l	language:C
+title_left	Chapter01/p009-01.c	/^    char title_left[] = "celsius", title_right[] = "fahr";$/;"	l	language:C
+title_left	Chapter01/p009-02.c	/^    char title_left[] = "celsius", title_right[] = "fahr";$/;"	l	language:C
+title_left	Chapter01/p009-03.c	/^    char title_left[] = "celsius", title_right[] = "fahr";$/;"	l	language:C
+title_right	Chapter01/p006-01.c	/^    char title_left[] = "fahr", title_right[] = "celsius";$/;"	l	language:C
+title_right	Chapter01/p008-01.c	/^    char title_left[] = "fahr", title_right[] = "celsius";$/;"	l	language:C
+title_right	Chapter01/p008-02.c	/^    char title_left[] = "celsius", title_right[] = "fahr";$/;"	l	language:C
+title_right	Chapter01/p009-01.c	/^    char title_left[] = "celsius", title_right[] = "fahr";$/;"	l	language:C
+title_right	Chapter01/p009-02.c	/^    char title_left[] = "celsius", title_right[] = "fahr";$/;"	l	language:C
+title_right	Chapter01/p009-03.c	/^    char title_left[] = "celsius", title_right[] = "fahr";$/;"	l	language:C
+upper	Chapter01/p004-01.c	/^    int lower, upper, step;$/;"	l	language:C
+upper	Chapter01/p006-01.c	/^    int lower, upper, step;$/;"	l	language:C
+upper	Chapter01/p008-01.c	/^    int lower, upper, step;$/;"	l	language:C
+upper	Chapter01/p008-02.c	/^    int lower, upper, step;$/;"	l	language:C
+upper	Chapter01/p009-01.c	/^    int lower, upper, step;$/;"	l	language:C
+v	conio-for-linux/conio.c	/^    va_list v;$/;"	l	language:C
+v	conio/conio.c	/^    va_list v;$/;"	l	language:C
+wherex	conio-for-linux/conio.c	/^int wherex(void) {$/;"	f	language:C	signature:(void)
+wherex	conio-for-linux/conio.h	/^int wherex(void);$/;"	p	language:C++	signature:(void)
+wherex	conio/conio.c	/^int wherex(void) {$/;"	f	language:C	signature:(void)
+wherex	conio/conio.h	/^int wherex(void);$/;"	p	language:C++	signature:(void)
+wherey	conio-for-linux/conio.c	/^int wherey(void) {$/;"	f	language:C	signature:(void)
+wherey	conio-for-linux/conio.h	/^int wherey(void);$/;"	p	language:C++	signature:(void)
+wherey	conio/conio.c	/^int wherey(void) {$/;"	f	language:C	signature:(void)
+wherey	conio/conio.h	/^int wherey(void);$/;"	p	language:C++	signature:(void)
+width	conio-for-linux/conio.c	/^    int height, width;$/;"	l	language:C
+width	conio/conio.c	/^    int height, width;$/;"	l	language:C
+window	conio-for-linux/conio.c	/^void window(int left, int top, int right, int bottom) {$/;"	f	language:C	signature:(int left, int top, int right, int bottom)
+window	conio-for-linux/conio.h	/^void window(int left, int top, int right, int bottom);$/;"	p	language:C++	signature:(int left, int top, int right, int bottom)
+window	conio/conio.c	/^void window(int left, int top, int right, int bottom) {$/;"	f	language:C	signature:(int left, int top, int right, int bottom)
+window	conio/conio.h	/^void window(int left, int top, int right, int bottom);$/;"	p	language:C++	signature:(int left, int top, int right, int bottom)

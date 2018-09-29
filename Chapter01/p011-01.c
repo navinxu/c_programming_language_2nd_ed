@@ -11,15 +11,7 @@
 
 int main() {
 
-    float celsius;
-    int lower, upper, step;
-
-    char title_left[] = "celsius", title_right[] = "fahr";
-
-    printf("%3s\t%6s\n", title_left, title_right);
-
-    for (celsius = 300; celsius >= 0; celsius -= 20)
-        printf("%3.0f\t%6.1f\n", celsius, celsius * 9.0 / 5.0 + 32);
+    printf("%d\n", EOF);
 
     return 0;
 }
