@@ -11,24 +11,29 @@
 
 int main() {
 
+
     int c;
     while ((c = getchar()) != EOF) {
-        switch (c) {
-            case '\t':
-                printf("\\t");
-                break;
-            case '\b':
-                printf("\\b");
-                break;
-            case '\\':
-                printf("\\\\");
-                break;
-            default:
-                putchar(c);
-                break;
+        if (c == '\t') {
+            printf("\\t");
+        }
+
+        if (c == '\b') {
+            printf("\\b");
+        }
+
+        if (c == '\\') {
+            printf("\\\\");
+        }
+
+        if (c != '\t') {
+            if (c != '\b') {
+                if (c != '\\') {
+                    putchar(c);
+                }
+            }
         }
     }
-
 
 
     return 0;

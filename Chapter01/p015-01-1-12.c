@@ -20,16 +20,16 @@ int main() {
     while ((c = getchar()) != EOF) {
 
         if (c == ' ' || c == '\t' || c == '\n') {
-            // 如果此处不添加 c != '\n'，将在输出的最后打印一空行
-            if (state == IN && c != '\n')
+            if (state == IN) {
                 putchar('\n');
+            }
             state = OUT;
         }
         else if (state == OUT) {
             state = IN;
         }
-
-        if (state == IN) 
+        
+        if (state == IN)
             putchar(c);
     }
 
