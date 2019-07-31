@@ -21,7 +21,7 @@ int main() {
     char pwd_input[MAX_PWD_COUNT + 1];
 
     i = 0;
-    while ((c = getch()) != char(13)) {
+    while ((c = getch()) != 13) {
         pwd_input[i] = c;
         putchar('*');
         i++;
