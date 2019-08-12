@@ -8,24 +8,16 @@
  *   描    述：
  ================================================================*/
 #include <stdio.h>
+#include <string.h>
 
-enum seven_days {
-    SUN,
-    MON,
-    TUE,
-    WEB,
-    THU,
-    THR,
-    SAT
-};
+int get_size(char* str) {
+    return strlen(str);
+}
 
 int main() {
 
-    enum seven_days days;
-    days = MON;
-    printf("%d\n", days);
-
-
+    char str[] = "abcde";
+    printf("%d\n", get_size(str));
 
     return 0;
 }
