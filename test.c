@@ -8,16 +8,12 @@
  *   描    述：
  ================================================================*/
 #include <stdio.h>
-#include <string.h>
-
-int get_size(char* str) {
-    return strlen(str);
-}
 
 int main() {
+    char s[5];
 
-    char str[] = "abcde";
-    printf("%d\n", get_size(str));
+    scanf("%s", s);
+    printf("%s\n", s);
 
     return 0;
 }
