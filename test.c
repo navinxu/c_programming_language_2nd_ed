@@ -10,10 +10,8 @@
 #include <stdio.h>
 
 int main() {
-    char s[5];
-
-    scanf("%s", s);
-    printf("%s\n", s);
+    int nums[] = {1,2,43};
+    printf("%d\n", sizeof(nums) / sizeof(int));
 
     return 0;
 }
