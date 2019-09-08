@@ -11,13 +11,17 @@
 #include <ctype.h>
 #include <string.h>
 
-#define STRLEN 100
-
+void expand(char s1[], char s2[]);
 int main() {
+    char s1[] = "-a-z";
+    char s2[100];
+    expand(s1, s2);
+    printf("%s\n", s1);
+    printf("%s\n", s2);
     
 
     return 0;
 }
 
-void expand(const char s1[], unsigned long len1, char s2[], unsigned long len2) {
+void expand(char s1[], char s2[]) {
 }
