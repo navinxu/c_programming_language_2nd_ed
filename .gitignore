@@ -1,3 +1,7 @@
 *.out
 *.txt
 test.c
+cscope*
+ctags
+tags
+tag
