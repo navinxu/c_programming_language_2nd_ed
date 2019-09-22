@@ -31,7 +31,7 @@ double atof(const char s[]) {
     power = 1;
     for (; isdigit(s[i]); i ++) {
         val = 10.0 * val + s[i] - '0';
-        power *= 10;
+        power *= 10.0;
     }
 
     val = sign * val / power;
@@ -45,10 +45,10 @@ double atof(const char s[]) {
 
         int e_power = 0;
         for (; isdigit(s[i]); i ++)
-            e_power = 10 * e_power + s[i] - '0';
+            e_power = 10.0 * e_power + s[i] - '0';
 
         while (e_power --)
-            power *= 10; 
+            power *= 10.0; 
 
         if (sign == -1)
            power = 1.0 / power; 
