@@ -13,8 +13,16 @@
 
 int getop(char s[]) {
     int i, c;
+    static int lastc = 0;
 
-    while ((s[0] = c = getch()) == ' ' || c == '\t')
+    if (!lastc)
+        c = getch();
+    else {
+        c = lastc;
+        lastc = 0;
+    }
+
+    while ((s[0] = c) == ' ' || c == '\t')
         ;
     s[1] = '\0';
     if (!isdigit(c) && c != '.')
@@ -28,7 +36,7 @@ int getop(char s[]) {
             ;
     s[i] = '\0';
     if (c != EOF)
-        ungetch(c);
+        lastc = c;
     return NUMBER;
 
 }
