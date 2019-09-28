@@ -16,7 +16,7 @@ void itoa(int, char[]);
 int main() {
 
     char s[MAXLEN];
-    itoa(-1708, s);
+    itoa(-0, s);
     printf("%s", s);
     
     //int i = 0;
@@ -36,21 +36,16 @@ void itoa(int inum, char s[]) {
     int temp = inum;
     static int count = 0;
     if (inum < 0) {
+        s[index++] = '-';
+        inum = -inum;
+    }
+
+    if (flag) {
         while (temp > 0) {
             temp /= 10;
             ++ count;
         }
-        s[index++] = '-';
         flag = 0;
-        inum = -inum;
-    } else {
-        if (flag) {
-            while (temp > 0) {
-                temp /= 10;
-                ++ count;
-            }
-            flag = 0;
-        }
     }
 
     if (inum / 10)
