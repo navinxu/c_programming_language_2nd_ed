@@ -7,10 +7,7 @@
 *   Create Date ：2019年09月27日
 *   Description ：
 ================================================================*/
-#include <stdio.h>
-#include <ctype.h>
-#include "calc.h"
-
+#include "getop.h"
 int getop(char s[]) {
     int i, c;
     static int lastc = 0;

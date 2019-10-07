@@ -7,8 +7,7 @@
 *   Create Date ：2019年09月27日
 *   Description ：
 ================================================================*/
-#include <stdio.h>
-#define BUFSIZE 100
+#include "getch.h"
 static char buf[BUFSIZE];
 static int bufp = 0;
 

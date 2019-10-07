@@ -5,3 +5,5 @@ cscope*
 ctags
 tags
 tag
+*.swp
+.swp
