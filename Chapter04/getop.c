@@ -7,19 +7,21 @@
 *   Create Date ：2019年09月27日
 *   Description ：
 ================================================================*/
-#include "getop.h"
+#include <stdio.h>
+#include <ctype.h>
+#include "calc.h"
 int getop(char s[]) {
     int i, c;
-    static int lastc = 0;
+    // static int lastc = 0;
+    //
+    // if (!lastc)
+    //     c = getch();
+    // else {
+    //     c = lastc;
+    //     lastc = 0;
+    // }
 
-    if (!lastc)
-        c = getch();
-    else {
-        c = lastc;
-        lastc = 0;
-    }
-
-    while ((s[0] = c) == ' ' || c == '\t')
+    while ((s[0] = c = getch()) == ' ' || c == '\t')
         ;
     s[1] = '\0';
     if (!isdigit(c) && c != '.')
@@ -33,7 +35,8 @@ int getop(char s[]) {
             ;
     s[i] = '\0';
     if (c != EOF)
-        lastc = c;
+        // lastc = c;
+        ungetch(c);
     return NUMBER;
 
 }

@@ -7,7 +7,8 @@
 *   Create Date ：2019年09月27日
 *   Description ：
 ================================================================*/
-#include "stack.h"
+#include <stdio.h>
+#include "calc.h"
 static int sp = 0;
 static double val[MAXVAL];
 

@@ -19,8 +19,8 @@ int main() {
     char s[MAXOP];
 
     while ((type = getop(s)) != EOF) {
-        //printf("%s\n", s);
-        //continue;
+        // printf("type: %d s: %s\n", type, s);
+        // continue;
         switch (type) {
             case NUMBER:
                 push(atof(s));

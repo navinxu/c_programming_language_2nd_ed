@@ -7,11 +7,14 @@
 *   Create Date ：2019年09月27日
 *   Description ：
 ================================================================*/
+#ifndef CALC
+#define CALC
 #define NUMBER '0'
+#define BUFSIZE 100
+#define MAXVAL 100
 void push(double);
 double pop(void);
 int getop(char []);
 int getch(void);
 void ungetch(int);
-
-
+#endif
