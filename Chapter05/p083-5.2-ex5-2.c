@@ -6,12 +6,13 @@
 *   E-Mail      ：admin@navinxu.com
 *   Create Date ：2019年10月30日
 *   Description ：
+* -ac123 +56.12a 99ncd .123 bcd344.12 -.03 -123.574 +0.453 8.000 0.000 +abc512.12 88 12.88aaa123 588.0
 ================================================================*/
 #include <stdio.h>
 #include <ctype.h>
 
 #define BUFFERMAX 100
-#define MAXLEN 12
+#define MAXLEN 14
 
 int bufferIndex = 0;
 int buffer[BUFFERMAX];
@@ -100,9 +101,16 @@ int getfloat(double *p) {
     if (*p != 0.00)
         *p *= sign;
 
-    while (!isdigit(c) && !isspace(c) && c != EOF) {
+    while (!isspace(c) && !isdigit(c) && c != EOF) {
         c = getch();
     } 
+
+    if (isdigit(c)) {
+        c = getch();
+        while (!isspace(c) && c != EOF) {
+            c = getch();
+        }
+    }
 
     if (c != EOF)
         ungetch(c);
