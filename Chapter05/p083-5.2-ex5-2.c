@@ -6,13 +6,13 @@
 *   E-Mail      ：admin@navinxu.com
 *   Create Date ：2019年10月30日
 *   Description ：
-*   -ac123 +56.12a 99ncd .123 bcd344.12 abcdefgh -.03 -123.574 +0.453 8.000 0.000 +abc512.12 88 12.88aaa123 588.0
+*   -ac123    +56.12a    99ncd .123     bcd344.12    abcd   bac+12.3 ook-92  von+   -.03    -123.574    +0.453    8.000     0.000     +abc512.12     88    12.88aaa123     588.0
 ================================================================*/
 #include <stdio.h>
 #include <ctype.h>
 
 #define BUFFERMAX 100
-#define MAXLEN 15
+#define MAXLEN 18
 
 int bufferIndex = 0;
 int buffer[BUFFERMAX];
