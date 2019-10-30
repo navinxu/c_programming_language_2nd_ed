@@ -42,11 +42,14 @@ int main() {
     // int age = 200;
     // printf("%d\n", paste(ag, e));
 
-    int a = 102;
-    int b = 300;
+    // int a = 102;
+    // int b = 300;
+    //
+    // swap(int, a, b);
+    // printf("%d %d\n", a, b);
 
-    swap(int, a, b);
-    printf("%d %d\n", a, b);
+    int a;
+    printf("%d\n", a);
 
     return 0;
 }
