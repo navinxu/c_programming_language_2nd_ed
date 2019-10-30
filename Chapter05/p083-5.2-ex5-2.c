@@ -63,8 +63,10 @@ int getfloat(double *p) {
         ;
 
     if (!isdigit(c) && c != EOF && c != '+' && c != '-' && c != '.') {
-        *p = 0.0;
-        return 0;
+        c = getch();
+        while (!isspace(c) && c != EOF) {
+            c = getch();
+        }
     }
 
     if (c == '+' || c == '-') {
@@ -73,7 +75,7 @@ int getfloat(double *p) {
     }
 
     if (!isdigit(c) && c != '.') {
-        while (!isspace(c)) {
+        while (!isspace(c) && c != EOF) {
             c = getch();
         }
     }
